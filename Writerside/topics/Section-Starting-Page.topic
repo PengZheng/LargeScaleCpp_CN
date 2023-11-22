@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="卷一 过程与架构" id="Section-Starting-Page">
+
+    <section-starting-page>
+        <title>过程与架构</title>
+        <description>
+            介绍了领域无关的软件过程和架构，即创建、呈现以及组织软件的普遍方式（不管软件具体做什么）。
+        </description>
+
+        <spotlight>
+            <a href="Definitions.md" type="academy" summary="物理设计相关的基本概念">定义</a>
+            <a href="DesignImperatives.md" type="key" summary="物理设计的关键目标">设计要务</a>
+        </spotlight>
+        <primary>
+            <a href="DesignRules.md" type="check-list" summary="物理设计必须遵守的基本规则">设计规则</a>
+            <a href="Guidelines.md" type="navigation" summary="物理设计应当遵循的建议或最佳实践">设计指南</a>
+        </primary>
+
+        <secondary>
+            <a href="Observations.md" type="idea" summary="物理设计经验谈">观察</a>
+        </secondary>
+    </section-starting-page>
+
+</topic>

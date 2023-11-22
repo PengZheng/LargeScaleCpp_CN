@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="《大规模C++软件开发》精要"
+                 start-page="Section-Starting-Page.topic">
+
+    <toc-element topic="Section-Starting-Page.topic">
+        <toc-element topic="Definitions.md"/>
+        <toc-element topic="DesignImperatives.md"/>
+        <toc-element topic="DesignRules.md"/>
+        <toc-element topic="Guidelines.md"/>
+        <toc-element topic="Observations.md"/>
+    </toc-element>
+</instance-profile>
